@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://duck-hunters-hugewin-el.github.io/sitemap.xml
